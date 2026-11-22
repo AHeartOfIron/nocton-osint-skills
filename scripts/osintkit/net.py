@@ -7,7 +7,7 @@ import re
 import urllib.parse
 import urllib.request
 
-UA = "osint-skills/0.1 (+https://github.com/AHeartOfIron/osint-skills)"
+UA = "osint-skills/0.1 (+https://github.com/AHeartOfIron/nocton-osint-skills)"
 DNS_TYPES = {"A": 1, "NS": 2, "CNAME": 5, "MX": 15, "TXT": 16, "AAAA": 28, "CAA": 257}
 
 

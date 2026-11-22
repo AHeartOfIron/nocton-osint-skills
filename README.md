@@ -1,6 +1,6 @@
-# osint-skills
+# nocton-osint-skills
 
-[![tests](https://github.com/AHeartOfIron/osint-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/AHeartOfIron/osint-skills/actions/workflows/ci.yml)
+[![tests](https://github.com/AHeartOfIron/nocton-osint-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/AHeartOfIron/nocton-osint-skills/actions/workflows/ci.yml)
 
 Defensive OSINT skills for [Claude Code](https://docs.claude.com/en/docs/claude-code).
 Paste a suspicious link, email or photo and ask Claude about it. It runs a real check and explains the result in plain words.
